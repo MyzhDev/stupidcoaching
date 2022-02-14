@@ -1,0 +1,2 @@
+# stupidcoaching
+Stupid Coaching exercise
